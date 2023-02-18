@@ -1,0 +1,50 @@
+.counter {
+  text-align: center;
+  font-size: 30px;
+  width: 90%;
+  align-self: center;
+  max-width: 60rem;
+  margin: 2rem auto;
+}
+button {
+  font-size: 16px;
+  width: 100px;
+  margin: 10px;
+  color: white;
+  padding: 15px;
+  border-width: 5px;
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid #8a2b06;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.counterButton {
+  background-color: #00a5ab;
+}
+.resetButton {
+  background-color: blueviolet;
+  width: 150px;
+}
+.tryAgain {
+  background-color: rgb(64, 178, 123);
+  width: 200px;
+}
+
+.count {
+  font-size: 150px;
+  padding: 30px;
+  color: rgb(145, 131, 236);
+}
+.random {
+  font-size: 150px;
+  padding: 30px;
+  max-height: 20%;
+  overflow: auto;
+  resize: both;
+}
+.wrapper{
+    align-self: center;
+    margin-bottom: 1rem;
+}
